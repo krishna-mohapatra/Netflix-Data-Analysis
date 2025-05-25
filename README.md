@@ -2,7 +2,10 @@
 Leveraged Power Query for data cleaning and Power BI to build interactive dashboards, delivering actionable insights from Netflix data for data-driven decision-making.
 ![Netflix Dashboard](https://github.com/user-attachments/assets/8bbc629b-9920-4da8-b828-c8c23872a699)
 
-# Key metrics
+# Tools Used 
+- Power BI – for building interactive visualizations and dashboards
+- Power Query – for data cleaning, transformation, and preparation 
+# Key metrics                                                               
 * Total Contents: 9,871
 * Total Movies: 8,514
 * Total Shows: 1,357
